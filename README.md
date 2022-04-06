@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## You made it.
+
+I sure hope you like your time here. We're just gonna host a load of crap I suppose.
 
 You can use the [editor on GitHub](https://github.com/chris-j20/darkdemon-kb/edit/public/README.md) to maintain and preview the content for your website in Markdown files.
 
