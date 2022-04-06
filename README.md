@@ -1,2 +1,2 @@
-# darkdemon-kb
-A knowledge-base for DarkDemon.org
+# The DarkDemon Wiki
+A knowledge-base for DarkDemon.org, or at least, what was.
