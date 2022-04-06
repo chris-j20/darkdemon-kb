@@ -1,4 +1,4 @@
-## You made it.
+## The DarkDemon.org Wiki
 
 I sure hope you like your time here. We're just gonna host a load of crap I suppose.
 
