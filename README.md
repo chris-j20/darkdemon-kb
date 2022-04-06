@@ -2,6 +2,8 @@
 
 I sure hope you like your time here. We're just gonna host a load of crap I suppose.
 
+[Read up on the History](History.md) at your leisure.
+
 You can use the [editor on GitHub](https://github.com/chris-j20/darkdemon-kb/edit/public/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
